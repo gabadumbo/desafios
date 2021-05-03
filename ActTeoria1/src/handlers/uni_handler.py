@@ -22,6 +22,6 @@ def make_data():
             break
 
     with open("exportados/analisis_uni.json", 'w', encoding='utf-8') as f:
-        json.dump(data_json, f)
+        json.dump(data_json, f, indent=4, ensure_ascii=False)
 
     print('Exportado a JSON con éxito a la carpeta exportados!')

@@ -23,6 +23,6 @@ def make_data():
                           'Puntaje': x[5], 'Región': x[4], 'Código ISO': x[2]}
 
     with open("exportados/analisis_lib.json", 'w', encoding='utf-8') as f:
-        json.dump(data_json, f)
+        json.dump(data_json, f, indent=4, ensure_ascii=False)
 
     print('Exportado a JSON con éxito a la carpeta exportados!')

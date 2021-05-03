@@ -1,1 +1,302 @@
-{"1": {"Pa\u00eds": "New Zealand", "Puntaje": "8.87", "Regi\u00f3n": "Oceania", "C\u00f3digo ISO": "NZL"}, "2": {"Pa\u00eds": "Switzerland", "Puntaje": "8.82", "Regi\u00f3n": "Western Europe", "C\u00f3digo ISO": "CHE"}, "3": {"Pa\u00eds": "Hong Kong SAR, China", "Puntaje": "8.74", "Regi\u00f3n": "East Asia", "C\u00f3digo ISO": "HKG"}, "4": {"Pa\u00eds": "Denmark", "Puntaje": "8.73", "Regi\u00f3n": "Western Europe", "C\u00f3digo ISO": "DNK"}, "5": {"Pa\u00eds": "Australia", "Puntaje": "8.68", "Regi\u00f3n": "Oceania", "C\u00f3digo ISO": "AUS"}, "6": {"Pa\u00eds": "Canada", "Puntaje": "8.64", "Regi\u00f3n": "North America", "C\u00f3digo ISO": "CAN"}, "7": {"Pa\u00eds": "Ireland", "Puntaje": "8.62", "Regi\u00f3n": "Western Europe", "C\u00f3digo ISO": "IRL"}, "8": {"Pa\u00eds": "Estonia", "Puntaje": "8.54", "Regi\u00f3n": "Eastern Europe", "C\u00f3digo ISO": "EST"}, "9": {"Pa\u00eds": "Germany", "Puntaje": "8.52", "Regi\u00f3n": "Western Europe", "C\u00f3digo ISO": "DEU"}, "10": {"Pa\u00eds": "Sweden", "Puntaje": "8.52", "Regi\u00f3n": "Western Europe", "C\u00f3digo ISO": "SWE"}, "11": {"Pa\u00eds": "Finland", "Puntaje": "8.49", "Regi\u00f3n": "Western Europe", "C\u00f3digo ISO": "FIN"}, "12": {"Pa\u00eds": "Japan", "Puntaje": "8.49", "Regi\u00f3n": "East Asia", "C\u00f3digo ISO": "JPN"}, "13": {"Pa\u00eds": "Luxembourg", "Puntaje": "8.49", "Regi\u00f3n": "Western Europe", "C\u00f3digo ISO": "LUX"}, "14": {"Pa\u00eds": "Netherlands", "Puntaje": "8.48", "Regi\u00f3n": "Western Europe", "C\u00f3digo ISO": "NLD"}, "15": {"Pa\u00eds": "Austria", "Puntaje": "8.45", "Regi\u00f3n": "Western Europe", "C\u00f3digo ISO": "AUT"}, "16": {"Pa\u00eds": "Norway", "Puntaje": "8.45", "Regi\u00f3n": "Western Europe", "C\u00f3digo ISO": "NOR"}, "17": {"Pa\u00eds": "United Kingdom", "Puntaje": "8.44", "Regi\u00f3n": "Western Europe", "C\u00f3digo ISO": "GBR"}, "18": {"Pa\u00eds": "United States", "Puntaje": "8.44", "Regi\u00f3n": "North America", "C\u00f3digo ISO": "USA"}, "19": {"Pa\u00eds": "Taiwan", "Puntaje": "8.42", "Regi\u00f3n": "East Asia", "C\u00f3digo ISO": "TWN"}, "20": {"Pa\u00eds": "Iceland", "Puntaje": "8.39", "Regi\u00f3n": "Western Europe", "C\u00f3digo ISO": "ISL"}, "21": {"Pa\u00eds": "Lithuania", "Puntaje": "8.37", "Regi\u00f3n": "Eastern Europe", "C\u00f3digo ISO": "LTU"}, "22": {"Pa\u00eds": "Latvia", "Puntaje": "8.34", "Regi\u00f3n": "Eastern Europe", "C\u00f3digo ISO": "LVA"}, "23": {"Pa\u00eds": "Malta", "Puntaje": "8.33", "Regi\u00f3n": "Western Europe", "C\u00f3digo ISO": "MLT"}, "24": {"Pa\u00eds": "Czech Republic", "Puntaje": "8.29", "Regi\u00f3n": "Eastern Europe", "C\u00f3digo ISO": "CZE"}, "25": {"Pa\u00eds": "Belgium", "Puntaje": "8.28", "Regi\u00f3n": "Western Europe", "C\u00f3digo ISO": "BEL"}, "26": {"Pa\u00eds": "Korea, Rep.", "Puntaje": "8.27", "Regi\u00f3n": "East Asia", "C\u00f3digo ISO": "KOR"}, "27": {"Pa\u00eds": "Portugal", "Puntaje": "8.27", "Regi\u00f3n": "Western Europe", "C\u00f3digo ISO": "PRT"}, "28": {"Pa\u00eds": "Singapore", "Puntaje": "8.21", "Regi\u00f3n": "South Asia", "C\u00f3digo ISO": "SGP"}, "29": {"Pa\u00eds": "Spain", "Puntaje": "8.2", "Regi\u00f3n": "Western Europe", "C\u00f3digo ISO": "ESP"}, "30": {"Pa\u00eds": "Chile", "Puntaje": "8.18", "Regi\u00f3n": "Latin America & the Caribbean", "C\u00f3digo ISO": "CHL"}, "31": {"Pa\u00eds": "Italy", "Puntaje": "8.12", "Regi\u00f3n": "Western Europe", "C\u00f3digo ISO": "ITA"}, "32": {"Pa\u00eds": "Romania", "Puntaje": "8.09", "Regi\u00f3n": "Eastern Europe", "C\u00f3digo ISO": "ROU"}, "33": {"Pa\u00eds": "Cyprus", "Puntaje": "8.05", "Regi\u00f3n": "Eastern Europe", "C\u00f3digo ISO": "CYP"}, "34": {"Pa\u00eds": "France", "Puntaje": "8.05", "Regi\u00f3n": "Western Europe", "C\u00f3digo ISO": "FRA"}, "35": {"Pa\u00eds": "Slovenia", "Puntaje": "8.05", "Regi\u00f3n": "Eastern Europe", "C\u00f3digo ISO": "SVN"}, "36": {"Pa\u00eds": "Slovak Republic", "Puntaje": "7.95", "Regi\u00f3n": "Eastern Europe", "C\u00f3digo ISO": "SVK"}, "37": {"Pa\u00eds": "Bulgaria", "Puntaje": "7.93", "Regi\u00f3n": "Eastern Europe", "C\u00f3digo ISO": "BGR"}, "38": {"Pa\u00eds": "Croatia", "Puntaje": "7.92", "Regi\u00f3n": "Eastern Europe", "C\u00f3digo ISO": "HRV"}, "39": {"Pa\u00eds": "Uruguay", "Puntaje": "7.92", "Regi\u00f3n": "Latin America & the Caribbean", "C\u00f3digo ISO": "URY"}, "40": {"Pa\u00eds": "Georgia", "Puntaje": "7.87", "Regi\u00f3n": "Caucasus & Central Asia", "C\u00f3digo ISO": "GEO"}, "41": {"Pa\u00eds": "Panama", "Puntaje": "7.87", "Regi\u00f3n": "Latin America & the Caribbean", "C\u00f3digo ISO": "PAN"}, "42": {"Pa\u00eds": "Costa Rica", "Puntaje": "7.84", "Regi\u00f3n": "Latin America & the Caribbean", "C\u00f3digo ISO": "CRI"}, "43": {"Pa\u00eds": "Albania", "Puntaje": "7.81", "Regi\u00f3n": "Eastern Europe", "C\u00f3digo ISO": "ALB"}, "44": {"Pa\u00eds": "Cabo Verde", "Puntaje": "7.75", "Regi\u00f3n": "Sub-Saharan Africa", "C\u00f3digo ISO": "CPV"}, "45": {"Pa\u00eds": "Bahamas, The", "Puntaje": "7.72", "Regi\u00f3n": "Latin America & the Caribbean", "C\u00f3digo ISO": "BHS"}, "46": {"Pa\u00eds": "Poland", "Puntaje": "7.72", "Regi\u00f3n": "Eastern Europe", "C\u00f3digo ISO": "POL"}, "47": {"Pa\u00eds": "Armenia", "Puntaje": "7.69", "Regi\u00f3n": "Caucasus & Central Asia", "C\u00f3digo ISO": "ARM"}, "48": {"Pa\u00eds": "Peru", "Puntaje": "7.68", "Regi\u00f3n": "Latin America & the Caribbean", "C\u00f3digo ISO": "PER"}, "49": {"Pa\u00eds": "Hungary", "Puntaje": "7.61", "Regi\u00f3n": "Eastern Europe", "C\u00f3digo ISO": "HUN"}, "50": {"Pa\u00eds": "Mongolia", "Puntaje": "7.61", "Regi\u00f3n": "East Asia", "C\u00f3digo ISO": "MNG"}}
+{
+    "1": {
+        "País": "New Zealand",
+        "Puntaje": "8.87",
+        "Región": "Oceania",
+        "Código ISO": "NZL"
+    },
+    "2": {
+        "País": "Switzerland",
+        "Puntaje": "8.82",
+        "Región": "Western Europe",
+        "Código ISO": "CHE"
+    },
+    "3": {
+        "País": "Hong Kong SAR, China",
+        "Puntaje": "8.74",
+        "Región": "East Asia",
+        "Código ISO": "HKG"
+    },
+    "4": {
+        "País": "Denmark",
+        "Puntaje": "8.73",
+        "Región": "Western Europe",
+        "Código ISO": "DNK"
+    },
+    "5": {
+        "País": "Australia",
+        "Puntaje": "8.68",
+        "Región": "Oceania",
+        "Código ISO": "AUS"
+    },
+    "6": {
+        "País": "Canada",
+        "Puntaje": "8.64",
+        "Región": "North America",
+        "Código ISO": "CAN"
+    },
+    "7": {
+        "País": "Ireland",
+        "Puntaje": "8.62",
+        "Región": "Western Europe",
+        "Código ISO": "IRL"
+    },
+    "8": {
+        "País": "Estonia",
+        "Puntaje": "8.54",
+        "Región": "Eastern Europe",
+        "Código ISO": "EST"
+    },
+    "9": {
+        "País": "Germany",
+        "Puntaje": "8.52",
+        "Región": "Western Europe",
+        "Código ISO": "DEU"
+    },
+    "10": {
+        "País": "Sweden",
+        "Puntaje": "8.52",
+        "Región": "Western Europe",
+        "Código ISO": "SWE"
+    },
+    "11": {
+        "País": "Finland",
+        "Puntaje": "8.49",
+        "Región": "Western Europe",
+        "Código ISO": "FIN"
+    },
+    "12": {
+        "País": "Japan",
+        "Puntaje": "8.49",
+        "Región": "East Asia",
+        "Código ISO": "JPN"
+    },
+    "13": {
+        "País": "Luxembourg",
+        "Puntaje": "8.49",
+        "Región": "Western Europe",
+        "Código ISO": "LUX"
+    },
+    "14": {
+        "País": "Netherlands",
+        "Puntaje": "8.48",
+        "Región": "Western Europe",
+        "Código ISO": "NLD"
+    },
+    "15": {
+        "País": "Austria",
+        "Puntaje": "8.45",
+        "Región": "Western Europe",
+        "Código ISO": "AUT"
+    },
+    "16": {
+        "País": "Norway",
+        "Puntaje": "8.45",
+        "Región": "Western Europe",
+        "Código ISO": "NOR"
+    },
+    "17": {
+        "País": "United Kingdom",
+        "Puntaje": "8.44",
+        "Región": "Western Europe",
+        "Código ISO": "GBR"
+    },
+    "18": {
+        "País": "United States",
+        "Puntaje": "8.44",
+        "Región": "North America",
+        "Código ISO": "USA"
+    },
+    "19": {
+        "País": "Taiwan",
+        "Puntaje": "8.42",
+        "Región": "East Asia",
+        "Código ISO": "TWN"
+    },
+    "20": {
+        "País": "Iceland",
+        "Puntaje": "8.39",
+        "Región": "Western Europe",
+        "Código ISO": "ISL"
+    },
+    "21": {
+        "País": "Lithuania",
+        "Puntaje": "8.37",
+        "Región": "Eastern Europe",
+        "Código ISO": "LTU"
+    },
+    "22": {
+        "País": "Latvia",
+        "Puntaje": "8.34",
+        "Región": "Eastern Europe",
+        "Código ISO": "LVA"
+    },
+    "23": {
+        "País": "Malta",
+        "Puntaje": "8.33",
+        "Región": "Western Europe",
+        "Código ISO": "MLT"
+    },
+    "24": {
+        "País": "Czech Republic",
+        "Puntaje": "8.29",
+        "Región": "Eastern Europe",
+        "Código ISO": "CZE"
+    },
+    "25": {
+        "País": "Belgium",
+        "Puntaje": "8.28",
+        "Región": "Western Europe",
+        "Código ISO": "BEL"
+    },
+    "26": {
+        "País": "Korea, Rep.",
+        "Puntaje": "8.27",
+        "Región": "East Asia",
+        "Código ISO": "KOR"
+    },
+    "27": {
+        "País": "Portugal",
+        "Puntaje": "8.27",
+        "Región": "Western Europe",
+        "Código ISO": "PRT"
+    },
+    "28": {
+        "País": "Singapore",
+        "Puntaje": "8.21",
+        "Región": "South Asia",
+        "Código ISO": "SGP"
+    },
+    "29": {
+        "País": "Spain",
+        "Puntaje": "8.2",
+        "Región": "Western Europe",
+        "Código ISO": "ESP"
+    },
+    "30": {
+        "País": "Chile",
+        "Puntaje": "8.18",
+        "Región": "Latin America & the Caribbean",
+        "Código ISO": "CHL"
+    },
+    "31": {
+        "País": "Italy",
+        "Puntaje": "8.12",
+        "Región": "Western Europe",
+        "Código ISO": "ITA"
+    },
+    "32": {
+        "País": "Romania",
+        "Puntaje": "8.09",
+        "Región": "Eastern Europe",
+        "Código ISO": "ROU"
+    },
+    "33": {
+        "País": "Cyprus",
+        "Puntaje": "8.05",
+        "Región": "Eastern Europe",
+        "Código ISO": "CYP"
+    },
+    "34": {
+        "País": "France",
+        "Puntaje": "8.05",
+        "Región": "Western Europe",
+        "Código ISO": "FRA"
+    },
+    "35": {
+        "País": "Slovenia",
+        "Puntaje": "8.05",
+        "Región": "Eastern Europe",
+        "Código ISO": "SVN"
+    },
+    "36": {
+        "País": "Slovak Republic",
+        "Puntaje": "7.95",
+        "Región": "Eastern Europe",
+        "Código ISO": "SVK"
+    },
+    "37": {
+        "País": "Bulgaria",
+        "Puntaje": "7.93",
+        "Región": "Eastern Europe",
+        "Código ISO": "BGR"
+    },
+    "38": {
+        "País": "Croatia",
+        "Puntaje": "7.92",
+        "Región": "Eastern Europe",
+        "Código ISO": "HRV"
+    },
+    "39": {
+        "País": "Uruguay",
+        "Puntaje": "7.92",
+        "Región": "Latin America & the Caribbean",
+        "Código ISO": "URY"
+    },
+    "40": {
+        "País": "Georgia",
+        "Puntaje": "7.87",
+        "Región": "Caucasus & Central Asia",
+        "Código ISO": "GEO"
+    },
+    "41": {
+        "País": "Panama",
+        "Puntaje": "7.87",
+        "Región": "Latin America & the Caribbean",
+        "Código ISO": "PAN"
+    },
+    "42": {
+        "País": "Costa Rica",
+        "Puntaje": "7.84",
+        "Región": "Latin America & the Caribbean",
+        "Código ISO": "CRI"
+    },
+    "43": {
+        "País": "Albania",
+        "Puntaje": "7.81",
+        "Región": "Eastern Europe",
+        "Código ISO": "ALB"
+    },
+    "44": {
+        "País": "Cabo Verde",
+        "Puntaje": "7.75",
+        "Región": "Sub-Saharan Africa",
+        "Código ISO": "CPV"
+    },
+    "45": {
+        "País": "Bahamas, The",
+        "Puntaje": "7.72",
+        "Región": "Latin America & the Caribbean",
+        "Código ISO": "BHS"
+    },
+    "46": {
+        "País": "Poland",
+        "Puntaje": "7.72",
+        "Región": "Eastern Europe",
+        "Código ISO": "POL"
+    },
+    "47": {
+        "País": "Armenia",
+        "Puntaje": "7.69",
+        "Región": "Caucasus & Central Asia",
+        "Código ISO": "ARM"
+    },
+    "48": {
+        "País": "Peru",
+        "Puntaje": "7.68",
+        "Región": "Latin America & the Caribbean",
+        "Código ISO": "PER"
+    },
+    "49": {
+        "País": "Hungary",
+        "Puntaje": "7.61",
+        "Región": "Eastern Europe",
+        "Código ISO": "HUN"
+    },
+    "50": {
+        "País": "Mongolia",
+        "Puntaje": "7.61",
+        "Región": "East Asia",
+        "Código ISO": "MNG"
+    }
+}

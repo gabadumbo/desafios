@@ -1,1 +1,182 @@
-{"1": {"Universidad": "University of S\u00e3o Paulo", "Pa\u00eds": "Brazil", "Ranking mundial": "103", "Ranking nacional": "1"}, "2": {"Universidad": "University of Campinas", "Pa\u00eds": "Brazil", "Ranking mundial": "351", "Ranking nacional": "2"}, "3": {"Universidad": "University of Buenos Aires", "Pa\u00eds": "Argentina", "Ranking mundial": "354", "Ranking nacional": "1"}, "4": {"Universidad": "Federal University of Rio de Janeiro", "Pa\u00eds": "Brazil", "Ranking mundial": "356", "Ranking nacional": "3"}, "5": {"Universidad": "Pontifical Catholic University of Chile", "Pa\u00eds": "Chile", "Ranking mundial": "372", "Ranking nacional": "1"}, "6": {"Universidad": "S\u00e3o Paulo State University", "Pa\u00eds": "Brazil", "Ranking mundial": "421", "Ranking nacional": "4"}, "7": {"Universidad": "University of Chile", "Pa\u00eds": "Chile", "Ranking mundial": "442", "Ranking nacional": "2"}, "8": {"Universidad": "Federal University of Rio Grande do Sul", "Pa\u00eds": "Brazil", "Ranking mundial": "476", "Ranking nacional": "5"}, "9": {"Universidad": "Federal University of Minas Gerais", "Pa\u00eds": "Brazil", "Ranking mundial": "492", "Ranking nacional": "6"}, "10": {"Universidad": "Federal University of S\u00e3o Paulo", "Pa\u00eds": "Brazil", "Ranking mundial": "595", "Ranking nacional": "7"}, "11": {"Universidad": "National University of La Plata", "Pa\u00eds": "Argentina", "Ranking mundial": "619", "Ranking nacional": "2"}, "12": {"Universidad": "Rio de Janeiro State University", "Pa\u00eds": "Brazil", "Ranking mundial": "628", "Ranking nacional": "8"}, "13": {"Universidad": "Oswaldo Cruz Foundation", "Pa\u00eds": "Brazil", "Ranking mundial": "685", "Ranking nacional": "9"}, "14": {"Universidad": "Federal University of Santa Catarina", "Pa\u00eds": "Brazil", "Ranking mundial": "712", "Ranking nacional": "10"}, "15": {"Universidad": "Federal University of Paran\u00e1", "Pa\u00eds": "Brazil", "Ranking mundial": "746", "Ranking nacional": "11"}, "16": {"Universidad": "University of the Andes, Colombia", "Pa\u00eds": "Colombia", "Ranking mundial": "747", "Ranking nacional": "1"}, "17": {"Universidad": "Get\u00falio Vargas Foundation", "Pa\u00eds": "Brazil", "Ranking mundial": "772", "Ranking nacional": "12"}, "18": {"Universidad": "National University of Colombia", "Pa\u00eds": "Colombia", "Ranking mundial": "816", "Ranking nacional": "2"}, "19": {"Universidad": "University of Concepci\u00f3n", "Pa\u00eds": "Chile", "Ranking mundial": "824", "Ranking nacional": "3"}, "20": {"Universidad": "Brazilian Center for Research in Physics (CBPF)", "Pa\u00eds": "Brazil", "Ranking mundial": "838", "Ranking nacional": "13"}, "21": {"Universidad": "Federico Santa Mar\u00eda Technical University", "Pa\u00eds": "Chile", "Ranking mundial": "844", "Ranking nacional": "4"}, "22": {"Universidad": "University of Bras\u00edlia", "Pa\u00eds": "Brazil", "Ranking mundial": "845", "Ranking nacional": "14"}, "23": {"Universidad": "Federal University of Pernambuco", "Pa\u00eds": "Brazil", "Ranking mundial": "865", "Ranking nacional": "15"}, "24": {"Universidad": "Federal University of ABC", "Pa\u00eds": "Brazil", "Ranking mundial": "906", "Ranking nacional": "16"}, "25": {"Universidad": "University of the Republic, Uruguay", "Pa\u00eds": "Uruguay", "Ranking mundial": "913", "Ranking nacional": "1"}, "26": {"Universidad": "National University of C\u00f3rdoba", "Pa\u00eds": "Argentina", "Ranking mundial": "915", "Ranking nacional": "3"}, "27": {"Universidad": "Federal University of Vi\u00e7osa", "Pa\u00eds": "Brazil", "Ranking mundial": "921", "Ranking nacional": "17"}, "28": {"Universidad": "Federal University of Cear\u00e1", "Pa\u00eds": "Brazil", "Ranking mundial": "932", "Ranking nacional": "18"}, "29": {"Universidad": "Federal University of Pelotas", "Pa\u00eds": "Brazil", "Ranking mundial": "943", "Ranking nacional": "19"}, "30": {"Universidad": "Federal University of S\u00e3o Carlos", "Pa\u00eds": "Brazil", "Ranking mundial": "945", "Ranking nacional": "20"}}
+{
+    "1": {
+        "Universidad": "University of São Paulo",
+        "País": "Brazil",
+        "Ranking mundial": "103",
+        "Ranking nacional": "1"
+    },
+    "2": {
+        "Universidad": "University of Campinas",
+        "País": "Brazil",
+        "Ranking mundial": "351",
+        "Ranking nacional": "2"
+    },
+    "3": {
+        "Universidad": "University of Buenos Aires",
+        "País": "Argentina",
+        "Ranking mundial": "354",
+        "Ranking nacional": "1"
+    },
+    "4": {
+        "Universidad": "Federal University of Rio de Janeiro",
+        "País": "Brazil",
+        "Ranking mundial": "356",
+        "Ranking nacional": "3"
+    },
+    "5": {
+        "Universidad": "Pontifical Catholic University of Chile",
+        "País": "Chile",
+        "Ranking mundial": "372",
+        "Ranking nacional": "1"
+    },
+    "6": {
+        "Universidad": "São Paulo State University",
+        "País": "Brazil",
+        "Ranking mundial": "421",
+        "Ranking nacional": "4"
+    },
+    "7": {
+        "Universidad": "University of Chile",
+        "País": "Chile",
+        "Ranking mundial": "442",
+        "Ranking nacional": "2"
+    },
+    "8": {
+        "Universidad": "Federal University of Rio Grande do Sul",
+        "País": "Brazil",
+        "Ranking mundial": "476",
+        "Ranking nacional": "5"
+    },
+    "9": {
+        "Universidad": "Federal University of Minas Gerais",
+        "País": "Brazil",
+        "Ranking mundial": "492",
+        "Ranking nacional": "6"
+    },
+    "10": {
+        "Universidad": "Federal University of São Paulo",
+        "País": "Brazil",
+        "Ranking mundial": "595",
+        "Ranking nacional": "7"
+    },
+    "11": {
+        "Universidad": "National University of La Plata",
+        "País": "Argentina",
+        "Ranking mundial": "619",
+        "Ranking nacional": "2"
+    },
+    "12": {
+        "Universidad": "Rio de Janeiro State University",
+        "País": "Brazil",
+        "Ranking mundial": "628",
+        "Ranking nacional": "8"
+    },
+    "13": {
+        "Universidad": "Oswaldo Cruz Foundation",
+        "País": "Brazil",
+        "Ranking mundial": "685",
+        "Ranking nacional": "9"
+    },
+    "14": {
+        "Universidad": "Federal University of Santa Catarina",
+        "País": "Brazil",
+        "Ranking mundial": "712",
+        "Ranking nacional": "10"
+    },
+    "15": {
+        "Universidad": "Federal University of Paraná",
+        "País": "Brazil",
+        "Ranking mundial": "746",
+        "Ranking nacional": "11"
+    },
+    "16": {
+        "Universidad": "University of the Andes, Colombia",
+        "País": "Colombia",
+        "Ranking mundial": "747",
+        "Ranking nacional": "1"
+    },
+    "17": {
+        "Universidad": "Getúlio Vargas Foundation",
+        "País": "Brazil",
+        "Ranking mundial": "772",
+        "Ranking nacional": "12"
+    },
+    "18": {
+        "Universidad": "National University of Colombia",
+        "País": "Colombia",
+        "Ranking mundial": "816",
+        "Ranking nacional": "2"
+    },
+    "19": {
+        "Universidad": "University of Concepción",
+        "País": "Chile",
+        "Ranking mundial": "824",
+        "Ranking nacional": "3"
+    },
+    "20": {
+        "Universidad": "Brazilian Center for Research in Physics (CBPF)",
+        "País": "Brazil",
+        "Ranking mundial": "838",
+        "Ranking nacional": "13"
+    },
+    "21": {
+        "Universidad": "Federico Santa María Technical University",
+        "País": "Chile",
+        "Ranking mundial": "844",
+        "Ranking nacional": "4"
+    },
+    "22": {
+        "Universidad": "University of Brasília",
+        "País": "Brazil",
+        "Ranking mundial": "845",
+        "Ranking nacional": "14"
+    },
+    "23": {
+        "Universidad": "Federal University of Pernambuco",
+        "País": "Brazil",
+        "Ranking mundial": "865",
+        "Ranking nacional": "15"
+    },
+    "24": {
+        "Universidad": "Federal University of ABC",
+        "País": "Brazil",
+        "Ranking mundial": "906",
+        "Ranking nacional": "16"
+    },
+    "25": {
+        "Universidad": "University of the Republic, Uruguay",
+        "País": "Uruguay",
+        "Ranking mundial": "913",
+        "Ranking nacional": "1"
+    },
+    "26": {
+        "Universidad": "National University of Córdoba",
+        "País": "Argentina",
+        "Ranking mundial": "915",
+        "Ranking nacional": "3"
+    },
+    "27": {
+        "Universidad": "Federal University of Viçosa",
+        "País": "Brazil",
+        "Ranking mundial": "921",
+        "Ranking nacional": "17"
+    },
+    "28": {
+        "Universidad": "Federal University of Ceará",
+        "País": "Brazil",
+        "Ranking mundial": "932",
+        "Ranking nacional": "18"
+    },
+    "29": {
+        "Universidad": "Federal University of Pelotas",
+        "País": "Brazil",
+        "Ranking mundial": "943",
+        "Ranking nacional": "19"
+    },
+    "30": {
+        "Universidad": "Federal University of São Carlos",
+        "País": "Brazil",
+        "Ranking mundial": "945",
+        "Ranking nacional": "20"
+    }
+}
